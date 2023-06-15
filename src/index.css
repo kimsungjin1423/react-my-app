@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  /* 사용할 서체명 |대체 서체명| sans=serif 또는 serif
+  sans-serif:고딕체
+  serif:명조체
+  */
+  font-family:'맑은고딕', '굴림체', sans-serif;
+  font-size: 18px;
+  color: #232323;
+  background-color: #fff;
+}
+a {
+text-emphasis: none;
+}
+
